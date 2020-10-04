@@ -2,6 +2,7 @@ from addition import *
 from substraction import *
 from multiplication import *
 from division import *
+from advance_function import *
 
 print('---------- This is calculator program ----------')
 print('\n')
@@ -16,3 +17,4 @@ print(x, '+', y, '=', add(x, y))
 print(x, '-', y, '=', minus(x, y))
 print(x, '*', y, '=', multiply(x, y))
 print(x, '/', y, '=', divide(x, y))
+print(x, '%', y, '=', mod(x, y))
