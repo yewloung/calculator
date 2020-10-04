@@ -1,7 +1,7 @@
 from addition import *
 from substraction import *
 from multiplication import *
-from  division import *
+from division import *
 
 print('---------- This is calculator program ----------')
 print('\n')
