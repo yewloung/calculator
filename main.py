@@ -7,8 +7,8 @@ print('---------- This is calculator program ----------')
 print('\n')
 
 print('Please input 2 numbers')
-x = float(input('1st numbers : '))
-y = float(input('2nd numbers : '))
+x = float(input('your 1st numbers : '))
+y = float(input('your 2nd numbers : '))
 
 print('\n')
 print('Calculation result:')
